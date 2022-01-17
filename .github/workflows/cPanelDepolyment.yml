@@ -1,4 +1,4 @@
-name: Publish Website to Web Hosting
+name: Publish Website to Web Hostings
 on:
   push:
     branches:
