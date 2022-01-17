@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/deepfhpz/repositories/nextjs-app
+    - /bin/cp -a * $DEPLOYPATH
