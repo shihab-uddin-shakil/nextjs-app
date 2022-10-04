@@ -24,7 +24,7 @@ export default function Home() {
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
-            <p>MD.SHIHAB UDDIN </p>
+            <p>MD.SHIHAB UDDIN SSHAKIL </p>
           </a>
 
           <a href="https://nextjs.org/learn" className={styles.card}>
@@ -36,7 +36,7 @@ export default function Home() {
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h2>Hi</h2>
+            <h2>DEEPCHAINLABS</h2>
             <p>Find ME</p>
           </a>
 
